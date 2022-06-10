@@ -1,0 +1,14 @@
+.mainTable {
+    margin: 2rem;
+    padding: 2rem;
+    border-top: 2px solid #39B2CC;
+}
+
+td {
+    border: 1px solid black;
+}
+
+.tableButtons {
+    display: flex;
+    flex-direction: column;
+}
